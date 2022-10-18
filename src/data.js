@@ -17,8 +17,8 @@ export const projects = [
     description: "Personal portfolio website.",
     technology: "React JS, CSS, Bootstrap.",
     image: "./head-banner.png",
-    // link: "https://rawymurgany.herokuapp.com",
-    github: "https://www.github.com/Murgany/portfolio",
+    link: "https://rawymo.netlify.app",
+    github: "https://www.github.com/Murgany/portfoliot/tree/master",
   },
   {
     title: "STUDENT MGT SYSTEM",
