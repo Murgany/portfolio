@@ -92,10 +92,11 @@ const Projects = () => {
                     <span className="responsive-text"><ReadMore>{project.technology}</ReadMore></span>
                   </div>
 
- <div className="justify-content-between col-12 mb-2 pt-4 text-cente">
+                  <div className="justify-content-between col-12 mb-2 pt-4 text-cente">
                     {project.github ? (
                       <Button
                         href={project.github}
+                        target="_blank"
                         style={{ borderRadius: "50%" }}
                         variant="light"
                         className="btn-sm p-1 icons git-link"
