@@ -4,7 +4,7 @@ export const projects = [
   {
     title: "MEDEC-GULF",
     subtitle: "A merck group digital engagement center website",
-    description: "A merck group digital engagement center website used for medical content in form of video episodes, accompanied by optional, dynamically timed survey pop-ups in every video episode. An optional user registration system is included if the admin wants survey participants to be authenticated users. User details are saved in thedatabase and are exportable to Excel-compatible CSV file. The admin dashboard features a survey results view and a button to export the results to Excel-compatible CSV file. Simple looking on the client side, with the work-load on the backend side and the heavily Customized Django admin dashboard",
+    description: "A merck group digital engagement center website used for medical content in form of video episodes, accompanied by optional, dynamically timed survey pop-ups in every video episode. An optional user registration system is available if the admin wants survey participants to be authenticated users only. User details are saved in the data base and are exportable to Excel-compatible CSV file. The admin dashboard features a survey results view and a button to export the results to Excel-compatible CSV file. Simple looking on the client side, with the work-load on the backend side and the heavily Customized Django admin dashboard",
     // description:"Merck Digital Engagement Center is a designed program developed especially for you. We provide comprehensive scientific content and case studies digitally across different digital platforms. ",
     technology: "Django, HTML, CSS, Bootstrap, Ajax, JQuery.",
     image: "./medecgulf.png",
