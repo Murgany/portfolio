@@ -58,7 +58,7 @@ export const projects = [
     description:
       "Built with Django, HTML and CSS, this tiny app was built with one purpose in mind, counting words.",
     image: "./sms2.png",
-    link: "https://wordcounter.pythonanywhere.com/",
+//     link: "https://wordcounter.pythonanywhere.com/",
     github: "https://www.github.com/Murgany/django_word_counter",
   },
   // {
