@@ -39,7 +39,7 @@ export const projects = [
       "An eight page static website with a Django engine that's customisable to fetch data from a database.",
     image: "./virtua-templates.png",
     link: "https://virtua-full-stack.herokuapp.com",
-    github: "https://www.github.com/Murgany",
+    github: "https://github.com/Murgany/virtua-website",
   },
   {
     title: "TOOLHOUSE",
