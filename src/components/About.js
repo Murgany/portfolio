@@ -39,32 +39,20 @@ const About = () => {
             <h6 className="col-sm- mb-4 mt-5 responsive-text pb-3 dark-text text-muted" 
             style={{ lineHeight: "1.6", letterSpacing: "auto", transition: "1s ease" }}>
               <ReadMore>
-                Hi, I'm about to take you on a roller coster of experiences,
-                ready? let's go... I'm a professional, self-taught, full-stack
-                web developer specializing in both frontend and backend. I was
-                born In Sudan, grown in Uganda and now a refugee in Alexandria,
-                Egypt. I'm also a self-taught IT support technician, a computer
-                maintenace technician since 2015 and a smart phone maintenance
-                technician since 2012. I ran a business too, selling smartphone accessories
-                and computer accessories besides fixing devices and managing one
-                staff. I have been in deferent IT departments for a decade...and
-                I'm loving it. I was also a production supervisor at a small, old-school
-                advertising company where I managed about 5 people, 2 welders, 1
-                graphic designer and 2 helps. My last manager at a small retaurant
-                chain called me a joker, the joker in playing-cards, because,
-                other than cooking, I did any given task in any department of
-                the 3 restuarants, like training new employees, quality control & continous
-                 monitoring and formulating new policies. And when I
-                have time, I get creepy around broken things, I won't easily let
-                you take your fan or your car-lifting jack for repair before I
-                try fixing it for you.
-                You are still here, right? Thanks goodness you
-                are. I hope you remember that you are still looking at a web
-                developer's portfolio, just one with diverse experiences and a
-                thirst for learning. I am happy to say that after all the
-                different experiences, I have just found my passion, coding and creating
-                awesome web apps and I'm not afraid to break the mold while learning. 
-                Thank you for reading. I hope to hearfrom you soon.
+               Hi, I'm about to take you on a roller coster of experiences, ready? let's go... I'm a professional, self-taught, full-
+stack web developer specializing in both frontend and backend, building responsive and scalable websites from
+scratch to deployment. I'm also a self-taught IT support technician, a computer maintenance technician since 2015
+and a smart phone maintenance technician since 2012. I ran a business too, selling smartphone accessories and
+computer accessories besides fixing devices and managing one staff. I have been in different IT departments for
+a decade...and I'm loving it. I was also a production supervisor at a small, old-school advertising company where I
+managed about 5 people, 2 welders, 1 graphic designer and 2 helps. My last manager at a small restaurant chain
+called me a joker, the joker in playing-cards, because, other than cooking, I did any given task in any department
+of the 3 restaurants, like training new employees, quality control & monitoring and formulating new policies. And
+when I have time, I get creepy around broken things, I won't easily let you take your fan or your car-lifting jack for
+repair before I try fixing it for you. You are still here, right? Thanks goodness you are. I hope you remember that
+you are still looking at a web developer's portfolio, just one with diverse experiences and a thirst for learning. I am
+happy to say that after all the different experiences, I have just found my passion, coding and creating awesome
+web apps and I'm not afraid to break the mold while learning. Thank you for reading. I hope to hear from you soon.
                 {/* 
                  Hi, I'm about to take you on a roller coster of experiences,
                 ready? let's go... I'm a professional, self-taught, full-stack
