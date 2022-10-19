@@ -18,7 +18,7 @@ export const projects = [
     technology: "React JS, CSS, Bootstrap.",
     image: "./head-banner.png",
     link: "https://rawymo.netlify.app",
-    github: "https://www.github.com/Murgany/portfoliot/tree/master",
+    github: "https://www.github.com/Murgany/portfolio/tree/master",
   },
   {
     title: "STUDENT MGT SYSTEM",
