@@ -85,5 +85,5 @@ export const skills = [
   {name: "Axios", link: "https://axios-http.com/docs/intro"},
   {name: "HTML", link: "https://html.com/"},
   {name: "CSS", link: "https://devdocs.io/css/"},
-  {name: "Framework specific libraries"},
+  {name: "Bonus: I usually learn framework specific libraries on the fly as the need for them arise"},
 ];
