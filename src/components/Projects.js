@@ -89,7 +89,13 @@ const Projects = () => {
                       <strong>TECHNOLOGIES USED</strong>
                     </h6>
 
-                    <span className="responsive-text"><ReadMore>{project.technology}</ReadMore></span>
+                    <span className="responsive-text">
+                      {project.description.length >= 68 ? (
+                        <ReadMore>{project.description}</ReadMore>
+                      ) : (
+                        project.description
+                      )}
+                    </span>
                   </div>
 
                   <div className="justify-content-between col-12 mb-2 pt-4 text-cente">
