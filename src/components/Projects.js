@@ -17,7 +17,7 @@ const Projects = () => {
     } else {
       setIndex(index + 2);
       setIsCompleted(false);
-      console.log(index);
+      // console.log(index);
     }
   };
 
@@ -63,7 +63,9 @@ const Projects = () => {
                 borderColor: "#4d53b3",
               }}
             >
-              <h1 className="a headers text-center">{project.title}</h1>
+              <h1 className="a headers text-center blue-text">
+                {project.title}
+              </h1>
               <div>
                 <div className="project-image-container">
                   <img
@@ -76,24 +78,30 @@ const Projects = () => {
                   className="p-0"
                   style={{
                     height: "100%",
-                    minHeight: "235px"
+                    minHeight: "235px",
                   }}
                 >
                   <div className="row mt-3">
                     <h4 className="responsive-text">
                       <strong>DESCRIPTION</strong>
                     </h4>
-                    <span className="responsive-text"><ReadMore>{project.description}</ReadMore></span>
-
-                    <h6 className="responsive-text">
-                      <strong>TECHNOLOGIES USED</strong>
-                    </h6>
-
                     <span className="responsive-text">
                       {project.description.length >= 68 ? (
                         <ReadMore>{project.description}</ReadMore>
                       ) : (
                         project.description
+                      )}
+                    </span>
+
+                    <h6 className="responsive-text mt-3">
+                      <strong>TECHNOLOGIES USED</strong>
+                    </h6>
+
+                    <span className="responsive-text">
+                      {project.technology.length >= 68 ? (
+                        <ReadMore>{project.technology}</ReadMore>
+                      ) : (
+                        project.technology
                       )}
                     </span>
                   </div>
@@ -118,7 +126,24 @@ const Projects = () => {
                         </svg>
                       </Button>
                     ) : (
-                      <></>
+                      <div
+                        href={project.github}
+                        target="_blank"
+                        style={{ borderRadius: "20px" }}
+                        variant="light"
+                        className="btn-sm p-1 icons git-link"
+                        rel="noreferrer"
+                        id="icons"
+                      >
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className="bi bi-code-slash p-1 contact-icons"
+                          viewBox="0 0 16 16"
+                        >
+                          <path d="M10.478 1.647a.5.5 0 1 0-.956-.294l-4 13a.5.5 0 0 0 .956.294l4-13zM4.854 4.146a.5.5 0 0 1 0 .708L1.707 8l3.147 3.146a.5.5 0 0 1-.708.708l-3.5-3.5a.5.5 0 0 1 0-.708l3.5-3.5a.5.5 0 0 1 .708 0zm6.292 0a.5.5 0 0 0 0 .708L14.293 8l-3.147 3.146a.5.5 0 0 0 .708.708l3.5-3.5a.5.5 0 0 0 0-.708l-3.5-3.5a.5.5 0 0 0-.708 0z" />
+                        </svg>
+                        Code is Private
+                      </div>
                     )}
 
                     {project.link ? (
@@ -144,7 +169,6 @@ const Projects = () => {
                       <></>
                     )}
                   </div>
-
                 </Card.Body>
               </div>
             </Card>
@@ -152,18 +176,18 @@ const Projects = () => {
         ))}
 
         <div className="d-grid mt-4 mb-5 pb-1">
-          {isCompleted ? (
-            <button type="button" className="load-more-button">
-              That's It, thanks.
-            </button>
+          {!isCompleted ? (
+            <>
+              <button
+                onClick={loadMore}
+                type="button"
+                className="load-more-button"
+              >
+                Load More +
+              </button>
+            </>
           ) : (
-            <button
-              onClick={loadMore}
-              type="button"
-              className="load-more-button"
-            >
-              Load More +
-            </button>
+            <></>
           )}
         </div>
       </Row>
