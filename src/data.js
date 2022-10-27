@@ -41,16 +41,16 @@ export const projects = [
     link: "https://virtua-full-stack.herokuapp.com",
     github: "https://github.com/Murgany/virtua-website",
   },
-  {
-    title: "TOOLHOUSE",
-    subtitle: "A database suppurted blog.",
-    technology: "Django, HTML, CSS, Bootstrap.",
-    description:
-      "A dynamic and simple blog consuming data from a database built in Django. Highly customizable to fit any purpose.",
-    image: "./tools2.png",
-    link: "https://toolhouse.herokuapp.com",
-    github: "https://www.github.com/Murgany/toolhouse",
-  },
+//   {
+//     title: "TOOLHOUSE",
+//     subtitle: "A database suppurted blog.",
+//     technology: "Django, HTML, CSS, Bootstrap.",
+//     description:
+//       "A dynamic and simple blog consuming data from a database built in Django. Highly customizable to fit any purpose.",
+//     image: "./tools2.png",
+//     link: "https://toolhouse.herokuapp.com",
+//     github: "https://www.github.com/Murgany/toolhouse",
+//   },
   {
     title: "WORD COUNTER",
     subtitle: "A tiny word counter",
