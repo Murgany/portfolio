@@ -5,11 +5,9 @@ export const projects = [
     title: "MEDEC-GULF",
     subtitle: "A merck group digital engagement center website",
     description: "A merck group digital engagement center website used for medical content in form of video episodes, accompanied by optional, dynamically timed survey pop-ups in every video episode. An optional user registration system is available if the admin wants survey participants to be authenticated users only. User details are saved in the data base and are exportable to Excel-compatible CSV file. The admin dashboard features a survey results view and a button to export the results to Excel-compatible CSV file. Simple looking on the client side, with the work-load on the backend side and the heavily Customized Django admin dashboard",
-    // description:"Merck Digital Engagement Center is a designed program developed especially for you. We provide comprehensive scientific content and case studies digitally across different digital platforms. ",
     technology: "Django, HTML, CSS, Bootstrap, Ajax, JQuery.",
     image: "./medecgulf.png",
     link: "https://www.medecgulf.com",
-    // github: "https://www.github.com/Murgany/portfolio",
   },
   {
     title: "THIS WEBSITE",
@@ -61,16 +59,6 @@ export const projects = [
     link: "https://Murgany.pythonanywhere.com/",
     github: "https://www.github.com/Murgany/django_word_counter",
   },
-  // {
-  //   title: "HTML WEBSITE",
-  //   subtitle: "This was my first ever HTML website",
-  //   description:
-  //     "My first ever website to see what I can do with just HTML, CSS and Bootstrap. Includes a carousel",
-  //   technology: " HTML, CSS, Bootstrap.",
-  //   image: "./g1.png",
-  //   link: "https://rawymo.herokuapp.com",
-  //   github: "https://www.github.com/Murgany/",
-  // },
 ];
 
 export const skills = [
