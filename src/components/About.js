@@ -58,7 +58,7 @@ const About = () => {
                 monitoring and formulating new policies. And when I have time, I
                 get creepy around broken things, I won't easily let you take
                 your fan or your car-lifting jack for repair before I try fixing
-                it for you. You are still here, right? Thanks goodness you are.
+                it for you. You are still here, right? Thank goodness you are.
                 I hope you remember that you are still looking at a web
                 developer's portfolio, just one with diverse experiences and a
                 thirst for learning. I am happy to say that after all the
@@ -66,40 +66,6 @@ const About = () => {
                 creating awesome web apps and I'm not afraid to break the mold
                 while learning. Thank you for reading. I hope to hear from you
                 soon.
-                {/* 
-                 Hi, I'm about to take you on a roller coster of experiences,
-                ready? let's go... I'm a professional, self-taught, full-stack
-                web developer specializing in both frontend and backend. I was
-                born In Sudan, grown in Uganda and now a refugee in Alexandria,
-                Egypt. I'm also a self-taught IT support technician, a computer
-                maintenace technician since 2015 and a smart phone maintenance
-                technician since 2012. I ran a business too, selling smartphone
-                and computer accessories besides fixing devices and managing one
-                staff. I have been in deferent IT departments for a decade...and
-                I'm loving it. Did I mention a supervisor at a small, old-school
-                advertising company? Well I managed about 5 people, 2 welders, 1
-                graphic designer and 2 helps, you know... the people who build
-                and install the signs you see on shops' fronts and the
-                billboards on the street sides. Hello, you still with me?
-                Okay...just one more and I will stop here. The first job I did
-                as a teenager was picking (and sometimes buying) metal and
-                plastic scraps for resale to scrap dealers. Oh... and when I
-                have time, I get creepy around broken things, I won't easily let
-                you take your fan or your car-lifting jack for repair before I
-                try fixing it for you. My last manager at a small retaurant
-                chain called me a joker, the joker in playing-cards, because,
-                other than cooking, I did any given task in any department of
-                the 3 restuarants. You are still here, right? Thanks god you
-                are. I hope you remember that you are still looking at a web
-                developer's portfolio, just one with diverse experiences and a
-                thirst for learning. I am happy to say that after all the
-                different experiences, I have just found my passion, creating
-                awesome web apps and I'm not afraid to break the mold. Thank you
-                for reading.
-                
-                Being a family man, I spend most of my free time at home playing with
-          & teaching my two lovely kids and talking with my wife. I listen to
-          music, I meditate and I pray. */}
               </ReadMore>
             </h6>
           </Col>
