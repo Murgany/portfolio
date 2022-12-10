@@ -1,9 +1,17 @@
 export const data = {data:"I'm a professional, compassionate, self-taught, full-stack (frontend & backend) web developer based in Alexandria, Egypt. I'm also a self-taught IT support technician, a computer maintenace technician since 2015, and a smart phone hardware/sofware maintenance technician since 2012. I have been in deferent IT departments for a decade...and I'm loving it. Besides work, I have an un-ending hunger for learning new things. I'm a natural problem solver. Being a family man, I spend most of my free time at home playing with & teaching my two lovely kids and talking with my wife. I listen to music, I meditate and I pray."}
 
 export const projects = [
+    {
+    title: "Father Pakhomius",
+    subtitle: "This website is still in development. Work in progress",
+    description: "A church media center website for distribution of audio surmons and pdf books. The site is being developed for father Pakhomius, the caretaker of a church in Alexandria, Egypt. ",
+    technology: "Django, HTML, CSS, Bootstrap, Ajax, JQuery.",
+    image: "./22.webp",
+    link: "https://fatherpakhomius.pythonanywhere.com",
+  },
   {
     title: "MEDEC-GULF",
-    subtitle: "A merck group digital engagement center website",
+    subtitle: "Merck group digital engagement center website: Designed by a friend, I built the backend",
     description: "A merck group digital engagement center website used for medical content in form of video episodes, accompanied by optional, dynamically timed survey pop-ups in every video episode. An optional user registration system is available if the admin wants survey participants to be authenticated users only. User details are saved in the data base and are exportable to Excel-compatible CSV file. The admin dashboard features a survey results view and a button to export the results to Excel-compatible CSV file. Simple looking on the client side, with the work-load on the backend side and the heavily Customized Django admin dashboard",
     technology: "Django, HTML, CSS, Bootstrap, Ajax, JQuery.",
     image: "./medecgulf.png",
