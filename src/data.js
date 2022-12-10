@@ -2,9 +2,9 @@ export const data = {data:"I'm a professional, compassionate, self-taught, full-
 
 export const projects = [
     {
-    title: "Father Pakhomius",
+    title: "FATHER PAKHOMIUS",
     subtitle: "This website is still in development. Work in progress",
-    description: "A church media center website for distribution of audio surmons and pdf books. The site is being developed for father Pakhomius, the caretaker of a church in Alexandria, Egypt. ",
+    description: "A church media center for distribution of audio surmons and pdf books. The site is being developed for father Pakhomius, the manager of a church in Alexandria, Egypt. ",
     technology: "Django, HTML, CSS, Bootstrap, Ajax, JQuery.",
     image: "./22.webp",
     link: "https://fatherpakhomius.pythonanywhere.com",
@@ -19,8 +19,8 @@ export const projects = [
   },
   {
     title: "THIS WEBSITE",
-    subtitle: "Personal portfolio website",
-    description: "Personal portfolio website.",
+    subtitle: "Professional portfolio",
+    description: "My professional portfolio website.",
     technology: "React JS, CSS, Bootstrap.",
     image: "./head-banner.png",
     link: "https://rawymo.netlify.app",
