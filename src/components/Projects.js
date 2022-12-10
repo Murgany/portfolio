@@ -75,8 +75,8 @@ const Projects = () => {
                   />
                 </div>
 
-                <div class="blue-bg row mt-2">
-                    <small className="responsive-text text-white">
+                <div class="blue-bg row mt-2 p-1">
+                    <small className="text-white">
                       { project.subtitle }
                     </small>
                 </div>
