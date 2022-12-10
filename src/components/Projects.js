@@ -75,11 +75,11 @@ const Projects = () => {
                   />
                 </div>
 
-                 
-                    <h5 className="responsive-text blue-text">
+                <div>
+                    <h5 className="responsive-text text-white">
                       { project.subtitle }
                     </h5>
-
+                </div>
                 <Card.Body
                   className="p-0"
                   style={{
