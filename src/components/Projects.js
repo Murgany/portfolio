@@ -75,11 +75,12 @@ const Projects = () => {
                   />
                 </div>
 
-                <div class="blue-bg">
-                    <small className="responsive-text light-text text-whit">
+                <div class="blue-bg mt-2 p-1">
+                    <small className="responsive-text text-white">
                       { project.subtitle }
                     </small>
                 </div>
+
                 <Card.Body
                   className="p-0"
                   style={{
