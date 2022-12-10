@@ -74,6 +74,12 @@ const Projects = () => {
                     src={project.image}
                   />
                 </div>
+
+                 
+                    <h5 className="responsive-text blue-text">
+                      { project.subtitle }
+                    </h5>
+
                 <Card.Body
                   className="p-0"
                   style={{
