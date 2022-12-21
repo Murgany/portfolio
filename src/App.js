@@ -14,10 +14,10 @@ function App() {
     <Container className="App body" fluid>
       <Row>
         <Navbar />
-        <Home />    
-      <About />
-      <Projects />
-        <Skills />
+        <Home />  
+        <Projects />
+        <Skills />  
+        <About />
         <Contact />
       </Row>
     </Container>
