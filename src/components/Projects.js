@@ -15,7 +15,7 @@ const Projects = () => {
     if (index >= projects.length) {
       setIsCompleted(true);
     } else {
-      setIndex(index + 8);
+      setIndex(index + 4);
       setIsCompleted(false);
       // console.log(index);
     }
