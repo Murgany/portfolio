@@ -39,8 +39,9 @@ const About = () => {
             <h6 className="col-sm- mb-4 mt-5 responsive-text pb-3 dark-text text-muted" 
             style={{ lineHeight: "1.6", letterSpacing: "auto", transition: "1s ease" }}>
               
-              <ReadMore style="white-space: pre">
-                Hi, I'm about to take you on a roller coaster of achievements, ready? ...
+              <ReadMore style="   content: '\A'; white-space: pre;">
+               
+Hi, I'm about to take you on a roller coaster of achievements, ready? ...
 
 
 I'm a:
