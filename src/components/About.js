@@ -39,16 +39,17 @@ const About = () => {
             <h6 className="col-sm- mb-4 mt-5 responsive-text pb-3 dark-text text-muted" 
             style={{ lineHeight: "1.6", letterSpacing: "auto", transition: "1s ease" }}>
               <ReadMore>
+              <div class="row">
                 Hi, I'm about to take you on a roller coaster of achievements, ready? ...
 
 
-<span>I'm a:</span>
+I'm a:
 
-* full-stack (back end heavy) web developer specializing in Django-HTML / React-Django, building responsive and scalable web apps from concept to deployment since June 2021 (portfolio website below)<br />
+* full-stack (back end heavy) web developer specializing in Django-HTML / React-Django, building responsive and scalable web apps from concept to deployment since June 2021 (portfolio website below)
 
-* Quality Control & Training Manager/Administrative Assistant at Section F restaurants. 2021- March 2022 - 120 employees in 3 branches & a main office<br />
+* Quality Control & Training Manager/Administrative Assistant at Section F restaurants. 2021- March 2022 - 120 employees in 3 branches & a main office.
 
-* janitor/cleaner at section F restaurants 2021<br />
+* janitor/cleaner at section F restaurants 2021.
 
 * 2020 is not missing because of covid-19, it's missing because of a life changing incident that can wait for now<br />
 
@@ -71,7 +72,7 @@ I assure you, you are still looking at a web developer's profile, just one with 
 Thank you for reading. Looking forward to hear from you, if not for work, the least we can do is connect. <br />
 
 I was born in Sudan, grew up in Uganda and now a refugee in Egypt. <br />       
-                
+                </div>
               </ReadMore>
             </h6>
           </Col>
