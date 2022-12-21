@@ -46,7 +46,7 @@ Hi, I'm about to take you on a roller coaster of achievements, ready? ...
 
 I'm a:
 
-* full-stack (back end heavy) web developer specializing in Django-HTML / React-Django, building responsive and scalable web apps from concept to deployment since June 2021 (portfolio website below).
+* full-stack (back end heavy) web developer specializing in Django-HTML / React-Django, building responsive and scalable web apps from concept to deployment since June 2021.
 
 * Quality Control & Training Manager/Administrative Assistant at Section F restaurants. 2021- March 2022 - 120 employees in 3 branches & a main office.
 
