@@ -39,33 +39,39 @@ const About = () => {
             <h6 className="col-sm- mb-4 mt-5 responsive-text pb-3 dark-text text-muted" 
             style={{ lineHeight: "1.6", letterSpacing: "auto", transition: "1s ease" }}>
               <ReadMore>
-                              Hi, I'm about to take you on a roller coster of experiences,
-                ready? let's go... I'm a professional, self-taught, full- stack
-                web developer specializing in both frontend and backend,
-                building responsive and scalable websites from scratch to
-                deployment. I'm also a self-taught IT support technician, a
-                computer maintenance technician since 2015 and a smart phone
-                maintenance technician since 2012. I ran a business too, selling
-                smartphone accessories and computer accessories besides fixing
-                devices and managing one staff. I have been in different IT
-                departments for a decade...and I'm loving it. I was also a
-                production supervisor at a small, old-school advertising company
-                where I managed about 5 people, 2 welders, 1 graphic designer
-                and 2 helps. My last manager at a small restaurant chain called
-                me a joker, the joker in playing-cards, because, other than
-                cooking, I did any given task in any department of the 3
-                restaurants, like training new employees, quality control &
-                monitoring and formulating new policies. And when I have time, I
-                get creepy around broken things, I won't easily let you take
-                your fan or your car-lifting jack for repair before I try fixing
-                it for you. You are still here, right? Thank goodness you are.
-                I hope you remember that you are still looking at a web
-                developer's portfolio, just one with diverse experiences and a
-                thirst for learning. I am happy to say that after all the
-                different experiences, I have just found my passion, coding and
-                creating awesome web apps and I'm not afraid to break the mold
-                while learning. Thank you for reading. I hope to hear from you
-                soon.
+                Hi, I'm about to take you on a roller coaster of achievements, ready? ...
+
+
+I'm a:
+
+* full-stack (back end heavy) web developer specializing in Django-HTML / React-Django, building responsive and scalable web apps from concept to deployment since June 2021 (portfolio website below)
+
+* Quality Control & Training Manager/Administrative Assistant at Section F restaurants. 2021- March 2022 - 120 employees in 3 branches & a main office
+
+* janitor/cleaner at section F restaurants 2021
+
+* 2020 is not missing because of covid-19, it's missing because of a life changing incident that can wait for now
+
+* computer maintenance technician 2017-2019
+
+* cellular telephone maintenance technician 2012-2019
+
+* small business owner selling smartphone accessories and computer accessories besides fixing devices. In Sudan - 2012-2016, and in Egypt managing one staff - 2017-2019
+
+* a production supervisor/administrative assistant at Awaad Advertising company, managed 5 people 2010-2012
+
+* a diplomatic security guard & receptionist. UK embassy in Sudan 2007-2010
+
+* a part time activist for democracy, good governance, and freedom in Sudan since 2010
+
+I love helping people and in Section F I proved to be resourceful that I was given the responsibilities of Training and Orientation Manager, Quality Control Manager and Office Assistant all at once within three months, a decision that resulted in a series of changes in management of the company to combat negligence at work stations, low productivity and medium quality of food products. Some of the new policies included the introduction of compulsory training & orientation on company policies for all new employees regardless of seniority, a set of penalties if these rules are broken, a set of gifts, prizes & recognition policies for good performance and a system of monitoring without interrupting workflow. 
+These policies led to overall raise in performance including production efficiency and high quality of food products, retaining old clients, attracting new clients through marketing, and raising sales by 6% in 3 months. I was named employee of the year in Dec 2021. I'm a refugee, hired as a cleaner/janitor.
+
+I assure you, you are still looking at a web developer's profile, just one with diverse experiences and a thirst for learning. I am happy to say that after all these experiences, I have found something I love, programming, and creating awesome web apps.
+Thank you for reading. Looking forward to hear from you, if not for work, the least we can do is connect. 
+
+I was born in Sudan, grew up in Uganda and now a refugee in Egypt.             
+                
               </ReadMore>
             </h6>
           </Col>
