@@ -39,10 +39,10 @@ const About = () => {
             <h6 className="col-sm- mb-4 mt-5 responsive-text pb-3 dark-text text-muted" 
             style={{ lineHeight: "1.6", letterSpacing: "auto", transition: "1s ease" }}>
               <ReadMore>
-                Hi, I'm about to take you on a roller coaster of achievements, ready? ...<br />
+                Hi, I'm about to take you on a roller coaster of achievements, ready? ...
 
 
-I'm a:<br />
+<span>I'm a:</span>
 
 * full-stack (back end heavy) web developer specializing in Django-HTML / React-Django, building responsive and scalable web apps from concept to deployment since June 2021 (portfolio website below)<br />
 
