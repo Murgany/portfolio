@@ -39,38 +39,38 @@ const About = () => {
             <h6 className="col-sm- mb-4 mt-5 responsive-text pb-3 dark-text text-muted" 
             style={{ lineHeight: "1.6", letterSpacing: "auto", transition: "1s ease" }}>
               <ReadMore>
-                Hi, I'm about to take you on a roller coaster of achievements, ready? ...
+                Hi, I'm about to take you on a roller coaster of achievements, ready? ...<br />
 
 
-I'm a:
+I'm a:<br />
 
-* full-stack (back end heavy) web developer specializing in Django-HTML / React-Django, building responsive and scalable web apps from concept to deployment since June 2021 (portfolio website below)
+* full-stack (back end heavy) web developer specializing in Django-HTML / React-Django, building responsive and scalable web apps from concept to deployment since June 2021 (portfolio website below)<br />
 
-* Quality Control & Training Manager/Administrative Assistant at Section F restaurants. 2021- March 2022 - 120 employees in 3 branches & a main office
+* Quality Control & Training Manager/Administrative Assistant at Section F restaurants. 2021- March 2022 - 120 employees in 3 branches & a main office<br />
 
-* janitor/cleaner at section F restaurants 2021
+* janitor/cleaner at section F restaurants 2021<br />
 
-* 2020 is not missing because of covid-19, it's missing because of a life changing incident that can wait for now
+* 2020 is not missing because of covid-19, it's missing because of a life changing incident that can wait for now<br />
 
-* computer maintenance technician 2017-2019
+* computer maintenance technician 2017-2019<br />
 
-* cellular telephone maintenance technician 2012-2019
+* cellular telephone maintenance technician 2012-2019<br />
 
-* small business owner selling smartphone accessories and computer accessories besides fixing devices. In Sudan - 2012-2016, and in Egypt managing one staff - 2017-2019
+* small business owner selling smartphone accessories and computer accessories besides fixing devices. In Sudan - 2012-2016, and in Egypt managing one staff - 2017-2019<br />
 
-* a production supervisor/administrative assistant at Awaad Advertising company, managed 5 people 2010-2012
+* a production supervisor/administrative assistant at Awaad Advertising company, managed 5 people 2010-2012<br />
 
-* a diplomatic security guard & receptionist. UK embassy in Sudan 2007-2010
+* a diplomatic security guard & receptionist. UK embassy in Sudan 2007-2010<br />
 
-* a part time activist for democracy, good governance, and freedom in Sudan since 2010
+* a part time activist for democracy, good governance, and freedom in Sudan since 2010<br />
 
 I love helping people and in Section F I proved to be resourceful that I was given the responsibilities of Training and Orientation Manager, Quality Control Manager and Office Assistant all at once within three months, a decision that resulted in a series of changes in management of the company to combat negligence at work stations, low productivity and medium quality of food products. Some of the new policies included the introduction of compulsory training & orientation on company policies for all new employees regardless of seniority, a set of penalties if these rules are broken, a set of gifts, prizes & recognition policies for good performance and a system of monitoring without interrupting workflow. 
-These policies led to overall raise in performance including production efficiency and high quality of food products, retaining old clients, attracting new clients through marketing, and raising sales by 6% in 3 months. I was named employee of the year in Dec 2021. I'm a refugee, hired as a cleaner/janitor.
+These policies led to overall raise in performance including production efficiency and high quality of food products, retaining old clients, attracting new clients through marketing, and raising sales by 6% in 3 months. I was named employee of the year in Dec 2021. I'm a refugee, hired as a cleaner/janitor.<br />
 
-I assure you, you are still looking at a web developer's profile, just one with diverse experiences and a thirst for learning. I am happy to say that after all these experiences, I have found something I love, programming, and creating awesome web apps.
-Thank you for reading. Looking forward to hear from you, if not for work, the least we can do is connect. 
+I assure you, you are still looking at a web developer's profile, just one with diverse experiences and a thirst for learning. I am happy to say that after all these experiences, I have found something I love, programming, and creating awesome web apps.<br />
+Thank you for reading. Looking forward to hear from you, if not for work, the least we can do is connect. <br />
 
-I was born in Sudan, grew up in Uganda and now a refugee in Egypt.             
+I was born in Sudan, grew up in Uganda and now a refugee in Egypt. <br />       
                 
               </ReadMore>
             </h6>
