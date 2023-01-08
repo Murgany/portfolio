@@ -34,7 +34,7 @@ export const projects = [
     description:
       "Dynamic. API integrated. Different levels of user permissions. Dual-language, namely English and Arabic. CRUDE operations both on client side and the admin panel.",
     image: "./sms-0.png",
-    link: "https://simple-school-system.herokuapp.com",
+    link: "https://simple-school-system.netlify.app",
     github: "https://github.com/Murgany/simple-school-management-system",
   },
   {
