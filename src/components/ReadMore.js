@@ -8,7 +8,7 @@ const ReadMore = ({ children }) => {
     setIsReadMore(!isReadMore);
   };
   return (
-    <p className="text" style="content: '\A'; white-space: pre;">
+    <p className="text">
       {isReadMore ? text.slice(0, 67) : text}
       <span onClick={toggleReadMore} className="read-or-hide">
         {isReadMore ? "...read more" : " show less"}
