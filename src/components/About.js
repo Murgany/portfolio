@@ -41,7 +41,7 @@ const About = () => {
               
               <ReadMore style={{ content:"A", whiteSpace: "pre" }}>
                
-              Hi, I'm about to take you on a roller coaster of achievements, ready? ...
+              Hi, my name is Rawy Murgany, 
               I'm the kind of guy who doesn't easily give in to life excuses, 
               I didn't have the privilege of acquiring a university degree, 
               so I taught myself how to repair phones, then computers and now I'm happy to say that after these and other work experiences, 
@@ -51,7 +51,8 @@ const About = () => {
               I was born in Sudan, grew up a refugee in Uganda and living as a refugee in Egypt. 
               Being a refugee comes with lots of difficulties and barriers, 
               that's why you will see sudden changes in careers and a gap in my profile. 
-              The result is a cocktail of diverse experiences that perfectly work together when needed (See Experience section in my linkedin profile).
+              The result is a cocktail of diverse experiences that perfectly work together when needed. 
+              I'm about to take you on a roller coaster of hard earned achievements, ready? ...(click my linkedin profile below).
               </ReadMore>
             </h6>
           </Col>
